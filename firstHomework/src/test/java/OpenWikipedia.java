@@ -1,3 +1,4 @@
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
@@ -15,7 +16,9 @@ public class OpenWikipedia {
 
     @Test
     public void wikiBrowserChrome(){
+
         wd.get("https://www.wikipedia.org/");
+
     }
 
     @AfterClass
