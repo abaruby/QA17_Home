@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ae87bd4-2d3c-4cb5-8a61-ef78ed5eb28b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstHomework/src/test/java/WikiLogPass.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstHomework/src/test/java/WikiLogPass.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/firstHomework/.gradle/" />
@@ -53,8 +52,8 @@
       <file leaf-file-name="WikiLogPass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/firstHomework/src/test/java/WikiLogPass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="219">
+              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#749#750#0" expanded="true" />
@@ -760,8 +759,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firstHomework/src/test/java/WikiLogPass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="219">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#749#750#0" expanded="true" />
